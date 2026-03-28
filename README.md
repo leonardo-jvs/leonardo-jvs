@@ -76,17 +76,7 @@ Tenho perfil analítico e comunicativo, desenvolvido em mais de 4 anos de atendi
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardo-jvs&show_icons=true&theme=default&hide_border=true&title_color=1a7a3a&icon_color=1a7a3a&text_color=1a1a1a&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-jvs&layout=compact&hide_border=true&title_color=1a7a3a&text_color=1a1a1a&bg_color=ffffff)
-
 </div>
-
----
 
 ## 📫 Contato
 
