@@ -1,7 +1,4 @@
 
-[README.md](https://github.com/user-attachments/files/26322182/README.md)
-<!-- README de perfil — repositório: leonardo-jvs/leonardo-jvs -->
-
 <div align="center">
 
 # Olá, eu sou o Leonardo Santiago 👋
