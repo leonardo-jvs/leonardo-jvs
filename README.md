@@ -3,7 +3,7 @@
 
 # Olá, eu sou o Leonardo Santiago 👋
 
-### Desenvolvedor Fullstack | São Paulo, SP
+### Desenvolvedor Backend | São Paulo, SP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-santiago-17ab9219a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardo-jvs)
@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Anhanguera, com foco em desenvolvimento Fullstack. Acredito que a integração de **Inteligência Artificial** ao desenvolvimento de software é o caminho do mercado — e já aplico isso nos meus projetos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Anhanguera, com foco em desenvolvimento Backend. Acredito que a integração de **Inteligência Artificial** ao desenvolvimento de software é o caminho do mercado — e já aplico isso nos meus projetos.
 
 Tenho perfil analítico e comunicativo, desenvolvido em mais de 4 anos de atendimento ao cliente, e estou em busca da minha primeira oportunidade como desenvolvedor.
 
