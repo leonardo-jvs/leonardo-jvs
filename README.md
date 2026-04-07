@@ -25,30 +25,6 @@ Tenho perfil analítico e comunicativo, desenvolvido em mais de 4 anos de atendi
 
 ---
 
-## 🚀 Projeto em destaque
-
-### [⚽ Minha Seleção — Copa do Mundo 2026](https://github.com/leonardo-jvs/minha-selecao)
-
-> Aplicação web completa para montar sua convocação e escalação da Seleção Brasileira
-
-**O que faz:**
-- 🔍 Busca de jogadores em tempo real via **API-Football**
-- 🏟️ Escalação tática com 4 formações (4-3-3, 4-4-2, 3-5-2, 4-2-3-1)
-- 🖱️ Modo personalizar com **drag & drop** livre no campo
-- 🏅 Definição de capitão com braçadeira dourada
-- 📤 Card de compartilhamento exportável como imagem
-- ✅ Validação automática de posições
-
-**Stack:**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
 ## 🛠️ Tecnologias
 
 **Back-end**
